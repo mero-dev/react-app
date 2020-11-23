@@ -1,0 +1,13 @@
+.slideShow {
+	text-align: center;
+	align-items: center;
+	background-color: #282c34;
+	padding: 10px;
+	margin: 0;
+}
+.slideShow img {
+	text-align: center;
+	height: 400px;
+	width: auto;
+	margin: auto;
+}

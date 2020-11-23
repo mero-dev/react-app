@@ -1,0 +1,14 @@
+
+.clock {
+	display: inline-block;
+	width: 150px;
+	text-align: center;
+	font-size: 200%;
+	font-weight: 800;
+	color: #009;
+	border: 1px solid #ccc;
+	border-radius: 30px;
+	padding: 5px 10px;
+	background-color: #fff;
+	box-shadow:  3px 1px 4px #aaa;
+}
